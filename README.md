@@ -46,19 +46,3 @@ Below is a conceptual diagram representing the project's workflow:
 
 ![Breast Cancer Classification](images/diagram.png)
 
-## Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/breast-cancer-classification.git
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter Notebook or Python script.
-
-## Contribution
-Contributions are welcome! Feel free to fork the repository and submit a pull request.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
